@@ -9,5 +9,16 @@
 		<header>
 			<h1>Mon site avec GIT</h1>
 		</header>
+
+		<main>
+			<section>
+				<h2>Première section</h2>
+			</section>
+		</main>
+
+		<footer>
+			<p>Tous droits réservés 2017</p>
+		</footer>	
+		
 	</body>
 </html>
