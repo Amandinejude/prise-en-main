@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Mon site avec GIT</title>
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 	</head>
 
 	<body>
@@ -19,6 +20,6 @@
 		<footer>
 			<p>Tous droits réservés 2017</p>
 		</footer>	
-		
+
 	</body>
 </html>
